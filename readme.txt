@@ -1,3 +1,2 @@
 This is Kenny
-This is Benny
-This is Tonny
+That is Tonny
